@@ -122,6 +122,23 @@
       "attack_speed": "Saldırı hızı",
       "movement_speed": "Hareket hızı",
       "tenacity": "Sıvışma"
+    },
+    {
+      "_locales": [
+        "zh-TW"
+      ],
+      "title": "平衡數據",
+      "no_stats": "暫無增益/減益",
+      "dmg_dealt": "造成傷害",
+      "dmg_taken": "承受傷害",
+      "healing": "治療",
+      "shielding": "護盾",
+      "ability_haste": "初始技能急速",
+      "mana_regen": "法力回覆",
+      "energy_regen": "能量回應",
+      "attack_speed": "攻擊速度",
+      "movement_speed": "移動速度",
+      "tenacity": "韌性"
     }
   ]
 }
